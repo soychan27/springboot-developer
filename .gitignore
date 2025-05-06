@@ -25,6 +25,9 @@ bin/
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
+.env
+application-prod.yml
+application-secrets.yml
 
 ### NetBeans ###
 /nbproject/private/
